@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Math marks clculator")
+st.title("Math marks calculator")
 
 main_val={
 "A":74.5,
